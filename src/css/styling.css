@@ -1,0 +1,21 @@
+.container {
+    background: url("../assets/sora-sagano-8sOZJ8JF0S8-unsplash.jpg") center center/ cover no-repeat ;
+    height: 500px;
+    width: 100%;
+}
+
+#jumbotron-header {
+    color: white;
+    background: rgba(0, 0, 0, 0.5);
+    text-align: center;
+    width: 50%;
+    margin-left: 25%;
+}
+
+#jumbotron-text {
+    color: white;
+    background: rgba(0, 0, 0, 0.5);
+    text-align: center;
+    width: 50%;
+    margin-left: 25%;
+}

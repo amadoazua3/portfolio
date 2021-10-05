@@ -1,7 +1,9 @@
 .jumbotron {
-    background: url("../assets/sora-sagano-8sOZJ8JF0S8-unsplash.jpg") center center/ cover no-repeat ;
-    height: 500px;
-    width: 100%;
+    background-image: url("../assets/vipul-jha-a4X1cdC1QAc-unsplash.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    height: 400px;
+
 }
 
 #jumbotron-header {
@@ -19,3 +21,4 @@
     width: 50%;
     margin-left: 25%;
 }
+

@@ -1,7 +1,7 @@
 .jumbotron {
-    background-image: url("../assets/vipul-jha-a4X1cdC1QAc-unsplash.jpg");
+    background-image: url("../assets/florian-olivo-4hbJ-eymZ1o-unsplash.jpg");
     background-repeat: no-repeat;
-    background-size: 100% 100%;
+    background-size: cover;
     height: 400px;
 
 }
@@ -22,3 +22,31 @@
     margin-left: 25%;
 }
 
+body {
+    background-color: #F6F6F8;
+}
+
+
+a {
+    color: #C60021;
+}
+
+.project-content {
+    padding-top: 5em;
+}
+
+.about-me-content {
+    padding-top: 5em;
+}
+
+.social-media {
+    padding-top: 2em;
+}
+
+.bi .bi-linkedin {
+    margin-left: 1em;
+}
+
+.bi .bi-envelope {
+    margin-left: 1em;
+}
